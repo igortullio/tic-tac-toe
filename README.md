@@ -2,6 +2,9 @@
 
 A modern, responsive Tic-Tac-Toe game built with React, TypeScript, and Tailwind CSS.
 
+<img width="1425" alt="Screenshot 2025-05-05 at 18 50 21" src="https://github.com/user-attachments/assets/36aa14d1-7137-4e35-897a-23dc475b5cad" />
+<img width="1425" alt="Screenshot 2025-05-05 at 18 50 37" src="https://github.com/user-attachments/assets/6d2b57f8-3e26-4472-b6d5-983ca8f8ae56" />
+
 ## Features
 
 - 🎮 Classic Tic-Tac-Toe gameplay
